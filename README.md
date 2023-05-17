@@ -5,7 +5,7 @@ Run from CMD, PowerShell..<br>
 Run from a small command from anywhere!
 
 Add global variable to access ocode:<br>
-SETX PATH "%PATH%;C:\Caminho\ocode.bat"
+- SETX PATH "%PATH%;C:\Caminho\ocode.bat"
 
 Commands:
 
