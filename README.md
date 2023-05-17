@@ -8,8 +8,8 @@ Commands:
 
 Open a project from path<br>
 - ocode `path` <br>
-`ocode` c:\users\projects\projectname
+ocode c:\users\projects\projectname
 
 Utilizing saved projects\n
 - ocode `projectname` <br>
-`ocode` projectname
+ocode projectname
