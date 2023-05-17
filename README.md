@@ -10,6 +10,6 @@ Open a project from path<br>
 - ocode `path` <br>
 ocode c:\users\projects\projectname
 
-Utilizing saved projects\n
+Utilizing saved projects
 - ocode `projectname` <br>
 ocode projectname
