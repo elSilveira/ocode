@@ -5,7 +5,11 @@ Add global variable to access ocode:
 SETX PATH "%PATH%;C:\Caminho\ocode.bat"
 
 Commands:
-- ocode help
-- ocode commands
-- ocode folder
-- ocode project
+
+Open a project from path
+- ocode `path`
+  ocode c:\users\projects\projectname
+
+Utilizing saved projects
+- ocode `projectname`
+  ocode projectname
