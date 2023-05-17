@@ -6,10 +6,10 @@ SETX PATH "%PATH%;C:\Caminho\ocode.bat"
 
 Commands:
 
-Open a project from path
-ocode `path`
--  ocode c:\users\projects\projectname
+Open a project from path<br>
+- ocode `path` <br>
+`ocode` c:\users\projects\projectname
 
-Utilizing saved projects
-ocode `projectname`
--  ocode projectname
+Utilizing saved projects\n
+- ocode `projectname` <br>
+`ocode` projectname
